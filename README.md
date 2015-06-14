@@ -4,8 +4,10 @@ HackerRankChallenges
 
 Challenges done so far:
 
-UtopianTree
 
-Pangrams
+<ul>
+  <li>UtopianTree</li>
+  <li>Pangrams</li>
+  <li>FunnyString</li>
+</ul>
 
-FunnyString

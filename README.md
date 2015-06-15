@@ -2,7 +2,7 @@
 HackerRankChallenges
 
 
-Challenges done so far:
+<h1>Challenges done so far:</h1>
 
 
 <ul>
